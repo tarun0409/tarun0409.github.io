@@ -1,0 +1,56 @@
+.boot_navbar{
+  background-color: black;
+}
+.nav_text{
+  color: white;
+}
+.navigation_text{
+  margin-top: 10px;
+  margin-right: 10px;
+}
+.t_nav_input{
+    float: right;
+    padding: 6px;
+    border: none;
+    margin-top: 8px;
+    margin-right: 16px;
+    font-size: 17px;
+}
+.container-fluid {
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+/* Bottom left text */
+.bottom-left {
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+}
+.image_content1{
+  position:absolute;
+  top: 300px;
+  left:50px;
+}
+.image_content2{
+  position:absolute;
+  top: 300px;
+  left:150px;
+}
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+
+/* Create two equal columns that sits next to each other */
+.container_test{
+  color: black;
+}
+
+.img_row{
+  display:block;
+  width:100%;
+  height:auto;
+}
